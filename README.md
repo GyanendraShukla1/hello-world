@@ -1,2 +1,2 @@
 # hello-world
-I am gyan,a new be for data science.
+I am gyan,a noob for data science.
